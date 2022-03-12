@@ -1,0 +1,34 @@
+TECLADO
+-origem -teclado -destino -tela
+-origem -teclado -destino -arquivo -FernandoPessoa.txt
+-origem -teclado -destino -arquivo -criptografado -senha 01lf88jbm47dhg15 Chaplin.cript
+-origem -teclado -destino -arquivo -comprimido Bial.zip
+-origem -teclado -destino -arquivo -comprimido -criptografado -senha gosuby590437ptqz Camoes.zip.cript
+
+TXT
+-origem -arquivo Rimbaud.txt -destino -tela
+-origem -arquivo Rimbaud.txt -destino -arquivo -FernandoPessoa.txt
+-origem -arquivo Rimbaud.txt -destino -arquivo -criptografado -senha 01lf88jbm47dhg15 Chaplin.cript
+-origem -arquivo Rimbaud.txt -destino -arquivo -comprimido Bial.zip
+-origem -arquivo Rimbaud.txt -destino -arquivo -comprimido -criptografado -senha gosuby590437ptqz Camoes.zip.cript
+
+ZIP
+-origem -arquivo -comprimido Lama.zip -destino -tela
+-origem -arquivo -comprimido Lama.zip -destino -arquivo -FernandoPessoa.txt
+-origem -arquivo -comprimido Lama.zip -destino -arquivo -criptografado -senha 01lf88jbm47dhg15 Chaplin.cript
+-origem -arquivo -comprimido Lama.zip -destino -arquivo -comprimido Bial.zip
+-origem -arquivo -comprimido Lama.zip -destino -arquivo -comprimido -criptografado -senha gosuby590437ptqz Camoes.zip.cript
+
+CRIPT
+-origem -arquivo -criptografado -senha 5945687054645922 Jobim.cript -destino -tela
+-origem -arquivo -criptografado -senha 5945687054645922 Jobim.cript -destino -arquivo -FernandoPessoa.txt
+-origem -arquivo -criptografado -senha 5945687054645922 Jobim.cript -destino -arquivo -criptografado -senha 01lf88jbm47dhg15 Chaplin.cript
+-origem -arquivo -criptografado -senha 5945687054645922 Jobim.cript -destino -arquivo -comprimido Bial.zip
+-origem -arquivo -criptografado -senha 5945687054645922 Jobim.cript -destino -arquivo -comprimido -criptografado -senha gosuby590437ptqz Camoes.zip.cript
+
+CRIPT.ZIP
+-origem -arquivo -comprimido -criptografado -senha 9567pomeouit5846 Charlie.cript -destino -tela
+-origem -arquivo -comprimido -criptografado -senha 9567pomeouit5846 Charlie.cript -destino -arquivo -FernandoPessoa.txt
+-origem -arquivo -comprimido -criptografado -senha 9567pomeouit5846 Charlie.cript -destino -arquivo -criptografado -senha 01lf88jbm47dhg15 Chaplin.cript
+-origem -arquivo -comprimido -criptografado -senha 9567pomeouit5846 Charlie.cript -destino -arquivo -comprimido Bial.zip
+-origem -arquivo -comprimido -criptografado -senha 9567pomeouit5846 Charlie.cript -destino -arquivo -comprimido -criptografado -senha gosuby590437ptqz Camoes.zip.cript
