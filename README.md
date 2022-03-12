@@ -1,1 +1,2 @@
 # Laboratorio-de-Programacao-Orientada-a-Objetos
+Registro dos códigos desenvolvidos durante a disciplina de laboratorio de programacao orientada a objetos (LABOO), os códigos não estão otimizados e provavelmente necessitariam de melhoras. Foram desenvolvidos os seguintes programas: Programa que checa desempenho de algoritmos de ordenacao como Bubble, Quick, Merge e Insertion Sort; Cópia e encriptação de arquivos txt; Receituário Galáctico, programa le um txt de receita e le um txt de ingredientes disponíveis e gera um pdf com uma lista de compras com o que falta.  
